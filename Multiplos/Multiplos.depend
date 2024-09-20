@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726829999 source:c:\users\mtereso\desktop\10789-mds\git+github\ti897\multiplos\main.c
+	<stdio.h>
+	<locale.h>
+
